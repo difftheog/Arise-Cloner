@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Arise Cloner
 
 A Discord server cloner that works without admin privileges on the server you copy from. It copies the server name and icon, roles, categories, channels (with permissions), emojis and stickers into another server.

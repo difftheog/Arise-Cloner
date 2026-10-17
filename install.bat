@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 @echo off
 setlocal EnableExtensions DisableDelayedExpansion
 title Arise Cloner - Setup
