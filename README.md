@@ -7,7 +7,6 @@ A Discord server cloner that works without admin privileges on the server you co
 - **Full server replication**: roles, categories, text and voice channels, permission overwrites, emojis and stickers.
 - **Pick what to clone**: full server, only roles, only emojis and stickers, or a custom selection.
 - **Slot checks**: warns you when the destination doesn't have enough emoji or sticker slots.
-- **Terminal UI**: menus, progress bars and a summary screen. Menus work with the arrow keys and the mouse scroll wheel.
 
 ## Requirements
 - Windows 10 or 11
