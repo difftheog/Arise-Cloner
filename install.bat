@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @echo off
 setlocal EnableExtensions DisableDelayedExpansion
 title Arise Cloner - Setup
@@ -253,3 +254,14 @@ echo   - Or download Python manually from https://www.python.org/downloads/windo
 echo     and run install.bat again.
 if exist "%DL_EXE%" del /q "%DL_EXE%"
 exit /b 1
+=======
+@echo off
+echo y | pip uninstall discord.py
+echo y | pip uninstall discord
+
+pip install -r requirements.txt
+
+python main.py
+
+pause
+>>>>>>> 36229fc089e93af7c2763c8728692048e1e79d29
