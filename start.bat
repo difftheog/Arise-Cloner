@@ -62,7 +62,3 @@ echo Check the messages above, then run install.bat again.
 pause
 endlocal
 exit /b 1
-=======
-python main.py
-pause
->>>>>>> 36229fc089e93af7c2763c8728692048e1e79d29
