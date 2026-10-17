@@ -111,7 +111,7 @@ set "PIP_FORCE=--force-reinstall"
 "%VENV_PY%" -m pip show asyncio >nul 2>nul
 if not errorlevel 1 "%VENV_PY%" -m pip uninstall -y asyncio
 
-"%VENV_PY%" -m pip install %PIP_FORCE% -r requirements.txt --disable-pip-version-check
+"%VENV_PY%" -m pip install %PIP_FORCE% -r src/requirements.txt --disable-pip-version-check
 if errorlevel 1 goto deps_failed
 
 echo.
