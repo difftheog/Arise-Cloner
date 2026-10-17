@@ -66,4 +66,4 @@ src/wheel.py       mouse wheel scrolling for the menus
 - Please star the repository, it took me a week to code this cloner.
 - **Repository:** [Arise Cloner](https://github.com/difftheog/Arise-Cloner)
 
-# If I don't reply, I'm ded 🙂
+## If I don't reply, I'm ded 🙂
